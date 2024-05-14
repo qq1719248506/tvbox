@@ -1,0 +1,46 @@
+{
+  "作者":"",
+  "站名":"玄天",
+  "主页url":"https://www.sthhgy.com",
+  "导演":"导演",
+  "主演":"主演：</span><a href=*>&&</p>",
+  "影片状态":"更新：&&</p>",
+  "影片类型":"类型：&&</a>",
+  "影片地区":"地区：</span><a href=*>&&</a>",
+  "影片年代":"年份：</span><a href=*>&&</a>",
+  "数组":"<div class=\"stui-vodlist__box\">&&</div>",
+  "标题":"title=\"&&\"",
+  "副标题":"text-right\">&&</span>",
+  "图片":"data-original=\"&&\"",
+  "链接":"<a href=\"&&\"",
+  "分类url":"https://www.sthhgy.com/kijj/{cateId}-{catePg}/",
+  "分类":"电影$dongzuopian#电视剧$dianshiju#综艺$zongyi#动漫$dongman",
+  "筛选":{
+    "dongzuopian":[
+      {
+        "key":"cateId",
+        "name":"类型",
+        "value":[
+          {
+            "n":"动作片",
+            "v":"dongzuopian"
+          },
+          {
+            "n":"喜剧片",
+            "v":"xijupian"
+          },
+          {
+            "n":"爱情片",
+            "v":"aiqingpian"
+          },
+          {
+            "n":"记录片",
+            "v":"jilupian"
+          }          
+        ]
+      }
+    ]
+  }
+}
+          
+             
