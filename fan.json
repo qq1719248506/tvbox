@@ -625,6 +625,14 @@
       "ext": "./XBPQ/即看.json"
     },
     {
+      "key": "爱坤",
+      "name": "爱坤",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "ext": "./XBPQ/爱坤.json"
+    },    
+    {
       "key":"csp_茶杯",
       "name":"茶杯",
       "type":3,
@@ -632,19 +640,36 @@
       "searchable":1,
       "quickSearch":1,
       "filterable":1,
-      "ext":{
-        "主页url":"https://www.cupfox.cc",
-        "数组":"li class=\"fed-list-item fed-padding fed&&</li>",
-        "图片":"data-original=\"&&\"",
-        "标题":"fed-list-title*>&&</a>",
-        "副标题":"fed-text-center\">&&</span>",
-        "线路数组":"class=\"fed-padding fed-col-xs4&&</li>",
-        "线路标题":">&&<","跳转播放链接":"var now=\"&&\"",
-        "分类url":"https://www.cupfox.cc/fox/{cateId}-{catePg}.html",
-        "分类":"电影&电视剧&综艺&动漫&伦理",
-        "分类值":"1&2&3&4&20"
-      }
-    },
+      "ext":"./XBPQ/茶杯.json"
+    },    
+    {
+      "key": "鱼乐",
+      "name": "鱼乐",
+      "type": 1,
+      "api": "https://api.ylzy.me/api.php/provide/vod/",
+      "searchable": 1,
+      "changeable": 1,
+      "timeout": 10,
+      "categories": [
+        "纪录片",
+        "动作片",
+        "喜剧片",
+        "爱情片",
+        "科幻片",
+        "恐怖片",
+        "战争片",
+        "剧情片",
+        "邵氏电影",
+        "韩国综艺",
+        "国产综艺",
+        "日本综艺",
+        "欧美综艺",
+        "伦理片",
+        "港台三级",
+        "西方伦理",
+        "日本伦理"
+      ]
+    },    
     {
       "key": "push_agent",
       "name": "推送",
