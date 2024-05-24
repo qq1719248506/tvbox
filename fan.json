@@ -1,5 +1,5 @@
 {
-  "spider": "./jar/fan.jar;md5;1f8b015b17c163a49b4a9f43bcafd45f",
+  "spider": "./jar/fan.jar;md5;80f72b2f8d486578fc4cb2f50645b43f",
   "wallpaper": "https://深色壁纸.xxooo.cf/",
   "sites": [
     {
@@ -191,6 +191,17 @@
       "quickSearch": 1,
       "changeable": 1
     },
+    {
+      "key": "可可",
+      "name": "可可",
+      "type": 3,
+      "api": "csp_Kekys",
+      "timeout": 15,
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },    
     {
       "key": "Lib",
       "name": "利播",
