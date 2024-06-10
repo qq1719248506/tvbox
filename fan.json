@@ -648,14 +648,6 @@
       "api": "csp_XBPQ",
       "searchable": 1,
       "ext": "./XBPQ/即看.json"
-    },
-    {
-      "key": "爱坤",
-      "name": "爱坤",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "ext": "./XBPQ/爱坤.json"
     },    
     {
       "key":"csp_茶杯",
