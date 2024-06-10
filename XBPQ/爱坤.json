@@ -1,4 +1,4 @@
 {
-  "分类url":"https://ikun.tv/index.php/vodtype/show/area/{area}/id/{cateId}/page/{catePg}/year/{year}.html",
-  "分类":"动画片$m00007#电影$700007#电视剧$B00007#动漫$800007#综艺$U00007#短剧$W00007#伦理片$M00007"
+  "分类url":"https://ikun.tv/index.php/vod/show/area/{area}/id/{cateId}/page/{catePg}/year/{year}.html",
+  "分类":"动画片$54#电影$1#电视剧$3#动漫$2#综艺$4#短剧$5"
 }
