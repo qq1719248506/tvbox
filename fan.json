@@ -1,5 +1,5 @@
 {
-  "spider": "./jar/fty.jar;md5;1C9E4E3FA9A7457DC00E48E01CFE338D",
+  "spider": "./jar/fan.jar;md5;E616D45A7858A004DFBC472384C428B2",
   "wallpaper": "https://深色壁纸.xxooo.cf/",
   "sites": [
     {
@@ -119,6 +119,16 @@
       "changeable": 1,
       "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/nmys.json"
     },
+    {
+      "key": "蛋蛋",
+      "name": "蛋蛋",
+      "type": 3,
+      "api": "csp_Cddys",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },    
     {
       "key": "小点",
       "name": "兄弟",
@@ -242,6 +252,22 @@
       "searchable": 1,
       "ext": "./js/360影视.js"      
     },
+    {
+      "key": "天启",
+      "name": "天启",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "searchable": 1,
+      "ext": "./js/天启.js"      
+    },
+    {
+      "key": "卧龙",
+      "name": "卧龙",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "searchable": 1,
+      "ext": "./js/卧龙资源[资].js"      
+    },    
     {
       "key": "武享吧",
       "name": "UFC",
@@ -648,14 +674,6 @@
       "api": "csp_XBPQ",
       "searchable": 1,
       "ext": "./XBPQ/即看.json"
-    },
-    {
-      "key": "爱坤",
-      "name": "爱坤",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "ext": "./XBPQ/爱坤.json"
     },    
     {
       "key":"csp_茶杯",
