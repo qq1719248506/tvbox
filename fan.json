@@ -251,22 +251,6 @@
       "api": "./lib/drpy2.min.js",
       "searchable": 1,
       "ext": "./js/360影视.js"      
-    },
-    {
-      "key": "天启",
-      "name": "天启",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "searchable": 1,
-      "ext": "./js/天启.js"      
-    },
-    {
-      "key": "卧龙",
-      "name": "卧龙",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "searchable": 1,
-      "ext": "./js/卧龙资源[资].js"      
     },    
     {
       "key": "武享吧",
@@ -275,15 +259,6 @@
       "api": "./lib/drpy2.min.js",
       "searchable": 1,
       "ext": "./js/武享吧.js"      
-    },    
-    {
-      "key": "快看",
-      "name": "快看",
-      "type": 3,
-      "api": "./cat/tjs/js/kuaikan.js",
-      "playerType": 0,
-      "timeout": 30,
-      "ext": "{\"box\": \"TVBox\", \"danmu\": false}"      
     },
     {
       "key": "Dm84",
