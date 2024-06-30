@@ -1,5 +1,5 @@
 {
-  "spider": "./jar/fan.jar;md5;32D364C15515151D84E3224BFCD56217",
+  "spider": "./jar/fan.jar;md5;4B1ED9B514199007145737E00B5A9156",
   "wallpaper": "https://深色壁纸.xxooo.cf/",
   "sites": [
     {
@@ -192,16 +192,16 @@
       "changeable": 1
     },    
     {
-      "key": "毛驴",
-      "name": "毛驴",
+      "key": "Zx4k",
+      "name": "专线",
       "type": 3,
-      "api": "csp_MLYS",
+      "api": "csp_Zx4k",
       "timeout": 15,
+      "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 1,
-      "ext": "https://www.maolvys.com/"
-    },
+      "changeable": 1
+    },    
     {
       "key": "比特",
       "name": "比特",
@@ -554,16 +554,6 @@
         "分类url":"https://www.hemaha.com/tags/{cateId}-{area}-------{catePg}---{year}.html",
         "分类":"电影$1#电视剧$2#综艺$4#动漫$3"
       }
-    },
-    {
-      "key":"csp_文才",
-      "name":"文才",
-      "type":3,
-      "api":"csp_XBPQ",
-      "searchable":1,
-      "quickSearch":1,
-      "filterable":1,
-      "ext":"./XBPQ/文才.json"
     },    
     {
       "key":"csp_皮皮",
