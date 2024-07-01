@@ -541,19 +541,6 @@
       "quickSearch": 0,
       "api": "csp_XBPQ",
       "ext": "./XBPQ/评书.json"
-    },
-    {
-      "key":"csp_河马",
-      "name":"河马",
-      "type":3,
-      "api":"csp_XBPQ",
-      "searchable":1,
-      "quickSearch":1,
-      "filterable":1,
-      "ext":{
-        "分类url":"https://www.hemaha.com/tags/{cateId}-{area}-------{catePg}---{year}.html",
-        "分类":"电影$1#电视剧$2#综艺$4#动漫$3"
-      }
     },    
     {
       "key":"csp_皮皮",
