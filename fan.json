@@ -1,5 +1,5 @@
 {
-  "spider": "./jar/fan.jar;md5;4B1ED9B514199007145737E00B5A9156",
+  "spider": "./jar/fan.jar;md5;3C72FD348804EB888D933A4078340E0A",
   "wallpaper": "https://深色壁纸.xxooo.cf/",
   "sites": [
     {
@@ -20,13 +20,12 @@
       "quickSearch": 1,
       "changeable": 0,
       "ext": {
-        "aliToken": "tvfan/token.txt",
-        "quarkCookie": "tvfan/cookie.txt",
-        "from": "4k|auto|fhd",
+        "Cloud-drive": "tvfan/Cloud-drive.txt",
+        "from": "4k|auto",
         "siteUrl": "https://www.wogg.link/",
         "danMu": "弹"
       }
-    },
+    },  
     {
       "key": "YGP",
       "name": "荐影",
