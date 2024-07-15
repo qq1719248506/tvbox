@@ -270,6 +270,14 @@
       "ext": "./js/武享吧.js"      
     },
     {
+      "key": "追剧大师",
+      "name": "PTT追剧",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "searchable": 1,
+      "ext": "./js/PTT追剧大师.js"      
+    },    
+    {
       "key": "Dm84",
       "name": "巴士",
       "type": 3,
