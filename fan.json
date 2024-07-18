@@ -254,6 +254,16 @@
       "ext": "http://www.xb6v.com/"
     },
     {
+      "key": "PTT",
+      "name": "PTT视频",
+      "type": 3,
+      "api": "csp_PTT",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "jar": "./jar/custom_spider.jar;md5;2db0ca4bba291bb9357998923bea5c34"
+    },    
+    {
       "key": "360kan",
       "name": "360",
       "type": 3,
